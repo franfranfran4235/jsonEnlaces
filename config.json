@@ -1,0 +1,14 @@
+{
+    "videos": [
+        {
+            "name": "Knekro",
+            "url": "https://www.twitch.tv/knekro",
+            "icon": "https://mi-servidor.com/icono_futbol.png"
+        },
+        {
+            "name": "Bailes en Vivo",
+            "url": "https://mi-servidor.com/retransmision_bailes.m3u8",
+            "icon": "https://mi-servidor.com/icono_bailes.png"
+        }
+    ]
+}
